@@ -1,0 +1,6 @@
+streamlit
+google-genai
+fastapi[all]
+PyPDF2
+logfire[fastapi]
+pydantic-settings
